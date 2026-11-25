@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cheery-cactus-c96d6a.netlify.app/sitemap.xml
